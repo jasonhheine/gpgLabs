@@ -34,7 +34,7 @@ setup(
     version = '0.0.7',
     packages = find_packages(),
     install_requires = [
-        'numpy>=1.7',
+        'numpy',
         'scipy>=0.13',
         'matplotlib',
         'ipywidgets',
